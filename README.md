@@ -1,9 +1,8 @@
 ### Hi there 👋, My name is Asif
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I procrastinate but get the job job done 
 
-Skills: C
+Skills: C, nodeJS, Java
 
 - 🔭 I’m currently working on nothing 
 - 🌱 I’m currently learning DSA 
